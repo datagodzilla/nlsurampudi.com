@@ -1,27 +1,12 @@
 # Site settings
 title: Lalit Surampudi blog
-email: lsurampudi@gmail.com
-description: "Applied Data Science and Machine Learning"
+email: 
+description: "Applied Data Science and Machine Learning."
 baseurl: ""
 url: "http://datagodzilla.github.io"
-
-# URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: 
-
-#
-# Flags below are optional
-#
-
-# Includes an icon in the footer for each username you enter
-footer-links:
-  facebook:
-  flickr:
-  github_username: lalitsurampudi
-  instagram:
-  linkedin_username: lalitsurampudi
-  pinterest:
-  rss: # just type anything here for a working RSS icon
-  twitter_username: lalitsurampudi
+linkedin_username: lalitsurampudi
+twitter_username: lalitsurampudi
+github_username:  lalitsurampudi
 
 # Build settings
 markdown: kramdown
