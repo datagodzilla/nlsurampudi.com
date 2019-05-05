@@ -4,9 +4,9 @@ email: lsurampudi@gmail.com
 description: "Applied Data Science and Machine Learning"
 baseurl: ""
 url: "http://datagodzilla.github.io"
+linkedin_username: lalitsurampudi
 twitter_username: lalitsurampudi
 github_username:  lalitsurampudi
-linkedin_username: lalitsurampudi
 
 # Build settings
 markdown: kramdown
