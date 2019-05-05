@@ -15,5 +15,5 @@ permalink: pretty
 highlighter: rouge
 kramdown:
   input: GFM
-  auto_ids: true
+  auto_ids: false
   syntax_highlighter: rouge

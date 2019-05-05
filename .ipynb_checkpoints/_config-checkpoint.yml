@@ -1,9 +1,10 @@
 # Site settings
 title: Lalit Surampudi blog
-email: lsurampudi@gmail.com
-description: "Applied Data Science and Machine Learning"
+email: 
+description: "Applied Data Science and Machine Learning."
 baseurl: ""
 url: "http://datagodzilla.github.io"
+linkedin_username: lalitsurampudi
 twitter_username: lalitsurampudi
 github_username:  lalitsurampudi
 
@@ -14,5 +15,5 @@ permalink: pretty
 highlighter: rouge
 kramdown:
   input: GFM
-  auto_ids: true
+  auto_ids: false
   syntax_highlighter: rouge
