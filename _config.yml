@@ -8,6 +8,11 @@ linkedin_username: lalitsurampudi
 twitter_username: lalitsurampudi
 github_username:  lalitsurampudi
 
+comments:
+  provider: "disqus"
+  disqus:
+    shortname: "https-datagodzilla-github-io"
+
 # Build settings
 markdown: kramdown
 permalink: pretty
