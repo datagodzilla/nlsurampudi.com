@@ -6,6 +6,7 @@ baseurl: ""
 url: "http://datagodzilla.github.io"
 twitter_username: lalitsurampudi
 github_username:  lalitsurampudi
+linkedin_username :lalitsurampudi
 
 # Build settings
 markdown: kramdown
