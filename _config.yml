@@ -1,11 +1,11 @@
 # Site settings
-title: L S blog
-email: 
-description: "Description goes here.."
+title: Lalit Surampudi Blog
+email: lsurampudi@gmail.com
+description: "Applied Data Science and Machine Learning"
 baseurl: ""
 url: "http://datagodzilla.github.io"
-twitter_username: placeholder
-github_username:  placeholder
+twitter_username: lalitsurampudi
+github_username:  lalitsurampudi
 
 # Build settings
 markdown: kramdown
