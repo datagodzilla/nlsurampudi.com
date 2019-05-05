@@ -16,12 +16,12 @@ avatar:
 footer-links:
   facebook:
   flickr:
-  github: lalitsurampudi
+  github_username: lalitsurampudi
   instagram:
-  linkedin: lalitsurampudi
+  linkedin_username: lalitsurampudi
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: lalitsurampudi
+  twitter_username: lalitsurampudi
 
 # Build settings
 markdown: kramdown
