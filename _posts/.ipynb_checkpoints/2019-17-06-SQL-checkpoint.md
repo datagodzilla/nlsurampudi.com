@@ -3,13 +3,12 @@ layout: post
 comments: true
 title: 'SQL for Data Science'
 excerpt: 'Stages of data analytics project'
-date: 2019-05-05 04:00:00
-mathjax: false
 published: true
 permalink: /sql/
 summary: "Concepts of SQL in Data Science"
-tags: [news, machine_learning, be
 tags: [news, machine_learning, becoming_a_machine_learning_engineer]
+date: 2019-05-05 04:00:00
+mathjax: false
 ---
 
 # Introduction
