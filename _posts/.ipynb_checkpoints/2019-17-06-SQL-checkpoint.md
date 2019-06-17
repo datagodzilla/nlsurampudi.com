@@ -21,6 +21,6 @@ There are essentially three ideas that are aimed at database normalization:
 Are the tables storing logical groupings of the data?
 Can I make changes in a single location, rather than in many tables for the same information?
 Can I access and manipulate data quickly and efficiently?
-This is discussed in detail here[http://sqlmag.com/database-performance-tuning/sql-design-why-you-need-database-normalization].
+This is discussed in detail [here](http://sqlmag.com/database-performance-tuning/sql-design-why-you-need-database-normalization).
 
 However, most analysts are working with a database that was already set up with the necessary properties in place. As analysts of data, you don't really need to think too much about data normalization. You just need to be able to pull the data from the database, so you can start making insights. This will be our focus in this lesson.
