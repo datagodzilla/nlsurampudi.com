@@ -22,3 +22,5 @@ kramdown:
   input: GFM
   auto_ids: false
   syntax_highlighter: rouge
+
+theme: jekyll-theme-modernist
