@@ -23,4 +23,4 @@ kramdown:
   auto_ids: false
   syntax_highlighter: rouge
 
-theme: jekyll-theme-modernist
+theme: jekyll-theme-midnight
