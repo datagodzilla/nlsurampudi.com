@@ -1,9 +1,9 @@
 ---
 layout: post
 comments: true
-title: 'Introduction to Data Science'
-excerpt: 'Stages of data analytics project'
-date: 2019-05-05 04:00:00
+title: 'Requirements Analysis'
+excerpt: 'Agile methods for Data Analysis'
+date: 2020-11-01 04:00:00
 mathjax: false
 ---
 
