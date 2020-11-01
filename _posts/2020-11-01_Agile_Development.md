@@ -8,3 +8,4 @@ mathjax: false
 ---
 
 # Introduction
+Learn about the application of agile concepts in data analysis projects.
