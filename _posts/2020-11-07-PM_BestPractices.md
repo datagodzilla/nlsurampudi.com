@@ -7,6 +7,7 @@ date: 2020-11-06 04:00:00
 mathjax: false
 ---
 
+
 # Introduction
 
 It is important to develop practices at work that increase effectiveness of communication and add value to the projects.
@@ -15,7 +16,7 @@ It is important to develop practices at work that increase effectiveness of comm
 
 - Intent
     - Clearly state what response or action you are expecting from the recipient
-- Keep it Simple, Stupid (KISS)
+- Keep it Simple
     - Keep it brief, simple and consise to the point that a 5th grader can understand them.
 - Email vs meeting
     - Emails with brevity to send out minutes and use attachments and meetings to discuss content and detailed information.
