@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: 'Business Analysis'
 excerpt: 'Skills for becoming a better Business Analyst'
-date: 2020-11-01 04:00:00
+date: 2020-11-06 04:00:00
 mathjax: false
 ---
 
