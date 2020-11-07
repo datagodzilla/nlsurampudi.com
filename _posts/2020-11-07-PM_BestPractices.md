@@ -8,11 +8,11 @@ mathjax: false
 ---
 
 
-## Introduction
+### Introduction
 
 It is important to develop practices at work that increase effectiveness of communication and add value to the projects.
 
-## Writing concise and clear emails
+### Writing concise and clear emails
 
 - Intent
     - Clearly state what response or action you are expecting from the recipient
@@ -26,7 +26,7 @@ It is important to develop practices at work that increase effectiveness of comm
 
 
 
-## Resources
+### Resources
 - The Inside Track to Excelling As a Business Analyst: Soft Skills That Can Accelerate Your Career, by Roni Lubwama.
 
 
