@@ -7,8 +7,7 @@ date: 2020-11-06 04:00:00
 mathjax: false
 ---
 
-
-# Introduction
+## Introduction
 
 It is important to develop practices at work that increase effectiveness of communication and add value to the projects.
 

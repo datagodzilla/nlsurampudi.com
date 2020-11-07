@@ -8,7 +8,7 @@ mathjax: false
 ---
 
 
-# Introduction
+## Introduction
 
 It is important to develop practices at work that increase effectiveness of communication and add value to the projects.
 
