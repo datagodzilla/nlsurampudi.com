@@ -17,3 +17,7 @@ Understanding the nature of the business and how to deliver an analysis that add
 - Creativity, Problem-solving and Strategic thinking skills
 - Tools and practices
 
+## Nature of Business Analysis
+
+
+
