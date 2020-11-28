@@ -11,7 +11,6 @@ mathjax: false
 
 It is important to develop practices at work that increase effectiveness of communication and add value to the projects.
 
-<br>
 
 ### Writing concise and clear emails
 
@@ -28,26 +27,22 @@ It is important to develop practices at work that increase effectiveness of comm
 
 - Give importance to active listening and understand stakeholder's requirements and pain points that need to prioritized and resolved.
 
-<br>
 
 ### Preparation
 
 - Anticipate points of contention, possible flash points, difficult to please stakeholders, flawed arguments, historical precedents and other relevant information.
 - This homework is helpful to provide confidence to stakeholders who see that the analyst has 'thought this thing through'.
 
-<br>
 
 ### Product and Solution Confidence
 
 - It is important to have general product knowledge as well as knowledge of the proposed solution and the conviction that it is well-suited to requirements of the moment.
 
-<br>
 
 ### Collaboration and Team work
 
  - Seek help from project team members with deeper expertise to get intransigent end users and stakeholders accept to the proposed solutions.
 
-<br>
 
 ### Documentation
 
@@ -59,19 +54,16 @@ It is important to develop practices at work that increase effectiveness of comm
     - What trends do the historical data point to?
     - What is the use case?
 
-<br>
 
 ### Strategic thinking and Visioning
 
  - The lack of clarity and structure on projects breeds ambiguity. Managing ambiguity by providing clarity where none exists is a key skill to acquire.
 
-<br>
 
 ### Meeting Expectations
 
  - The stakeholders expect the Business Analyst to be running toward the fire and quickly put it out, not just narrow how hot or colorful it is. A Business Analyst who builds a track record of putting out fires is going to be in high demand given the challenges that plague the project.
 
-<br>
 
 ### Approach to Solving Problems
 
@@ -80,7 +72,6 @@ It is important to develop practices at work that increase effectiveness of comm
 - Removing confirmation bias when evaluating data and solutions to problems gives an opportunity to consider a wide range of conclusions from the data as well as alternative solutions.
 - Manage Analysis Paralysis which means overanalyzing and overthinking a problem that eventually creates paralysis and the problem does not get solved.
 
-<br>
 
 ### Resources
 
