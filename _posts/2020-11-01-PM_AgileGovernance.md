@@ -2,17 +2,19 @@
 layout: post
 comments: true
 title: 'Agile Governance'
-excerpt: 'Agile Manifesto'
+excerpt: 'Principles of Agile Manifesto'
 date: 2020-11-01 04:00:00
 mathjax: false
 ---
 
-# Introduction
+
+## Introduction
+
 Agile Governance under the umbrella of Agile Manifesto promotes light and simple governance structure. The Agile Manifesto is where we get the four (4) paired values and twelve (12) principles that guide Agile teams. The Agile Manifesto really can help guide us to better software development and can be used in non-software teams as well.
 
 <br>
 
-## Agile Manifesto 
+### Agile Manifesto 
 
 1. Our highest priority is to satisfy the customer through early and continuous delivery of valuable software.
 
@@ -41,7 +43,7 @@ its behavior accordingly.
 
 <br>
 
-## Agile Governance
+### Agile Governance
 Effective Agile Governance is about making decisions.
 In order to enable effective Agile governance, the following needs to be kept in mind:
 
@@ -71,7 +73,7 @@ In order to enable effective Agile governance, the following needs to be kept in
 
 <br>
 
-## What Kills High-Performance Teams?
+### What Kills High-Performance Teams?
 
 __Pitfall #1:__ Conflicts are not managed effectively; it is important to regularly remind the Agile Team of the value of respectfully discussing differing opinions and suggestions.
 
@@ -83,7 +85,7 @@ __Pitfall #4:__ Spark or passion is dimmed; if the Agile Team starts to perceive
 
 <br>
 
-## Resources
+### Resources
 
 - [8 Agile Mistakes that Are Killing Your Development Projects and How to Avoid Them](https://softwaremind.com/8-agile-mistakes-that-are-killing-your-development-projects-and-how-to-avoid-them/)
 - [Principles of Agile Manifesto](https://agilemanifesto.org/iso/en/principles.html)
