@@ -8,7 +8,8 @@ mathjax: false
 ---
 
 
-## Introduction
+
+### Introduction
 
 Agile Governance under the umbrella of Agile Manifesto promotes light and simple governance structure. The Agile Manifesto is where we get the four (4) paired values and twelve (12) principles that guide Agile teams. The Agile Manifesto really can help guide us to better software development and can be used in non-software teams as well.
 
