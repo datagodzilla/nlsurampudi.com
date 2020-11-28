@@ -8,12 +8,9 @@ mathjax: false
 ---
 
 
-
 ### Introduction
 
 Agile Governance under the umbrella of Agile Manifesto promotes light and simple governance structure. The Agile Manifesto is where we get the four (4) paired values and twelve (12) principles that guide Agile teams. The Agile Manifesto really can help guide us to better software development and can be used in non-software teams as well.
-
-<br>
 
 ### Agile Manifesto 
 
@@ -42,9 +39,8 @@ Agile Governance under the umbrella of Agile Manifesto promotes light and simple
 12. At regular intervals, the team reflects on how to become more effective, then tunes and adjusts
 its behavior accordingly.
 
-<br>
-
 ### Agile Governance
+
 Effective Agile Governance is about making decisions.
 In order to enable effective Agile governance, the following needs to be kept in mind:
 
@@ -72,8 +68,6 @@ In order to enable effective Agile governance, the following needs to be kept in
             - Need specific local or team level information or context for problem solving
 - Effective Agile governance ensures decisions are made in a simpler and lighter manner per the Agile Manifesto’s guidance to keep things simple.
 
-<br>
-
 ### What Kills High-Performance Teams?
 
 __Pitfall #1:__ Conflicts are not managed effectively; it is important to regularly remind the Agile Team of the value of respectfully discussing differing opinions and suggestions.
@@ -83,8 +77,6 @@ __Pitfall #2:__ Blame game begins; there needs to be a tolerance for some failur
 __Pitfall#3:__ Rules of Engagement are not followed; the Facilitator must ensure the Agile Team honors the agreed-upon rules of engagement and that team communications are frequent and relevant to avoid a high performing Agile Team from commencing its decline.
 
 __Pitfall #4:__ Spark or passion is dimmed; if the Agile Team starts to perceive that their work is not as valuable, it can annihilate motivation. When this starts to get foggy, the Product Owner needs to quickly step in the clarify.
-
-<br>
 
 ### Resources
 
