@@ -1,8 +1,8 @@
 ---
 layout: post
 comments: true
-title: 'Agile Development'
-excerpt: 'Approach to Manage High Quality Data'
+title: 'Data Modeling'
+excerpt: 'Definitions'
 date: 2020-11-25 04:00:00
 mathjax: false
 ---
